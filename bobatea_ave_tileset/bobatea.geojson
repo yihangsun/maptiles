@@ -1,0 +1,884 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O Dessert",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.313208,
+          47.663982
+        ],
+        "type": "Point"
+      },
+      "id": "097b12a36c7f14a9f891bd7bccdc4205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tea Republik",
+        "games": "No",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.313268,
+          47.661625
+        ],
+        "type": "Point"
+      },
+      "id": "0a5c3dc17685e155d7ad6c9109c1283d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kung Fu Tea",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.312962,
+          47.664229
+        ],
+        "type": "Point"
+      },
+      "id": "14c4450caaf6984f723e6cb3ca7d5b1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yan Tea",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.317265,
+          47.666785
+        ],
+        "type": "Point"
+      },
+      "id": "15d0af657e383c163203e4b4e500378d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C Fruit Life",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.314066,
+              47.657076
+            ],
+            [
+              -122.313919,
+              47.657079
+            ],
+            [
+              -122.313923,
+              47.656967
+            ],
+            [
+              -122.314066,
+              47.656967
+            ],
+            [
+              -122.314066,
+              47.657076
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "21306f1d8fa85022e0fcb40b938aed76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YiFang Taiwan Fruit Tea",
+        "games": "Yes",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.312886,
+              47.665346
+            ],
+            [
+              -122.312731,
+              47.665346
+            ],
+            [
+              -122.312733,
+              47.665296
+            ],
+            [
+              -122.312886,
+              47.665295
+            ],
+            [
+              -122.312886,
+              47.665346
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "220c5af2d3feb0989fb2fe5195032c9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boba Up",
+        "games": "Yes",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.313355,
+          47.658048
+        ],
+        "type": "Point"
+      },
+      "id": "22b01e94a2cebb8461c1bf16b28180f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beetle Cafe",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.313019,
+          47.660804
+        ],
+        "type": "Point"
+      },
+      "id": "25660bf4292035268ebefa45e3a0a3cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kung Fu Tea",
+        "games": "Yes",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.312962,
+              47.664265
+            ],
+            [
+              -122.312832,
+              47.664265
+            ],
+            [
+              -122.312832,
+              47.664202
+            ],
+            [
+              -122.31296,
+              47.6642
+            ],
+            [
+              -122.312961,
+              47.664265
+            ],
+            [
+              -122.312836,
+              47.664266
+            ],
+            [
+              -122.312962,
+              47.664265
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "28a5c47e4bcce0d14af337095254e316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oasis Tea Zone",
+        "games": "Yes",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.313034,
+          47.661551
+        ],
+        "type": "Point"
+      },
+      "id": "2fd796fd53f77f31c577ff283e24760f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharetea",
+        "games": "No",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.316314,
+              47.661461
+            ],
+            [
+              -122.316308,
+              47.661392
+            ],
+            [
+              -122.316183,
+              47.661391
+            ],
+            [
+              -122.316186,
+              47.661461
+            ],
+            [
+              -122.316314,
+              47.661461
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "32776041874ef4a2db094c2590a333dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oasis Tea Zone",
+        "games": "Yes",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.31303,
+              47.661581
+            ],
+            [
+              -122.312818,
+              47.661579
+            ],
+            [
+              -122.312608,
+              47.661581
+            ],
+            [
+              -122.312602,
+              47.661474
+            ],
+            [
+              -122.313032,
+              47.661475
+            ],
+            [
+              -122.31303,
+              47.661581
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "335449e5ed9e46f96ca0e66899d33571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yan Tea",
+        "games": "No",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.317263,
+              47.666798
+            ],
+            [
+              -122.317266,
+              47.666758
+            ],
+            [
+              -122.317151,
+              47.666757
+            ],
+            [
+              -122.317154,
+              47.666831
+            ],
+            [
+              -122.3172,
+              47.666833
+            ],
+            [
+              -122.317263,
+              47.666798
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "45e3aebeee508012dc27d4177bd15aeb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citra",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.312972,
+              47.664107
+            ],
+            [
+              -122.31297,
+              47.664064
+            ],
+            [
+              -122.312768,
+              47.664063
+            ],
+            [
+              -122.312767,
+              47.664135
+            ],
+            [
+              -122.312945,
+              47.664135
+            ],
+            [
+              -122.312946,
+              47.664107
+            ],
+            [
+              -122.312972,
+              47.664107
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "53011134451cec48ba9327d2475a459e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DING Tea",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.313209,
+          47.664008
+        ],
+        "type": "Point"
+      },
+      "id": "574f7beedbaa3549b4f2bd43b3920d3e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beetle Cafe",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.313029,
+              47.660856
+            ],
+            [
+              -122.312727,
+              47.660854
+            ],
+            [
+              -122.312727,
+              47.660744
+            ],
+            [
+              -122.313029,
+              47.660746
+            ],
+            [
+              -122.313029,
+              47.660856
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "5e8dac4b6114429e7569e67d12651607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WOW Bubble Tea",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.313554,
+              47.662907
+            ],
+            [
+              -122.313236,
+              47.662905
+            ],
+            [
+              -122.313243,
+              47.662799
+            ],
+            [
+              -122.313552,
+              47.6628
+            ],
+            [
+              -122.313554,
+              47.662907
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "74ca7dbb03e480253c1e7d586cd3e2a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatime",
+        "games": "Yes",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.314401,
+          47.663271
+        ],
+        "type": "Point"
+      },
+      "id": "787143a863ae83935d8bbc9e2100dd77"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oh Bear Cafe &Teahouse",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.316208,
+          47.663491
+        ],
+        "type": "Point"
+      },
+      "id": "7d92736679ab0a5eae970fa2e9d3145e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DING Tea",
+        "games": "No",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.313209,
+              47.664029
+            ],
+            [
+              -122.313632,
+              47.66403
+            ],
+            [
+              -122.313632,
+              47.663995
+            ],
+            [
+              -122.313203,
+              47.663995
+            ],
+            [
+              -122.313209,
+              47.664029
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "817ba9264c4ac92e32db63f8d944bd9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C Fruit Life",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.314015,
+          47.656978
+        ],
+        "type": "Point"
+      },
+      "id": "840c6c8ca63960afe91e37af5b75329f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Happy",
+        "games": "No",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.3129,
+          47.655451
+        ],
+        "type": "Point"
+      },
+      "id": "8ecd8d7eda5f9f6a6daa0dbbf65d28bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WOW Bubble Tea",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.313241,
+          47.662874
+        ],
+        "type": "Point"
+      },
+      "id": "916f35475d7eebf6a2c603f6ba097935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oh Bear Cafe &Teahouse",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.316208,
+              47.663518
+            ],
+            [
+              -122.316033,
+              47.663517
+            ],
+            [
+              -122.316033,
+              47.663459
+            ],
+            [
+              -122.316204,
+              47.663457
+            ],
+            [
+              -122.316208,
+              47.663518
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "9878706fee76fc84337634c06ab9ec58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mee Sum",
+        "games": "Yes",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.313271,
+          47.661129
+        ],
+        "type": "Point"
+      },
+      "id": "a7b5369b270b646d3299e8c74a7a509a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharetea",
+        "games": "No",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.316256,
+          47.661395
+        ],
+        "type": "Point"
+      },
+      "id": "add2ae50a994fb707c1700be55204cd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chatime",
+        "games": "Yes",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.314689,
+              47.663347
+            ],
+            [
+              -122.314424,
+              47.663345
+            ],
+            [
+              -122.314424,
+              47.663336
+            ],
+            [
+              -122.314396,
+              47.663336
+            ],
+            [
+              -122.314399,
+              47.663238
+            ],
+            [
+              -122.314687,
+              47.66324
+            ],
+            [
+              -122.314689,
+              47.663347
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "baff864157621d564a89229478cfcfd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe Happy",
+        "games": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.312969,
+              47.655538
+            ],
+            [
+              -122.312758,
+              47.655538
+            ],
+            [
+              -122.312758,
+              47.655424
+            ],
+            [
+              -122.312969,
+              47.65543
+            ],
+            [
+              -122.312969,
+              47.655538
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "bcd56cc6569f2be7592737305f492745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mee Sum",
+        "games": "Yes",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.31327,
+              47.661152
+            ],
+            [
+              -122.313691,
+              47.661156
+            ],
+            [
+              -122.313691,
+              47.661094
+            ],
+            [
+              -122.31327,
+              47.66109
+            ],
+            [
+              -122.31327,
+              47.661152
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "bd37c09f3d967e743bd5e4b59deeb2ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citra",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.312975,
+          47.664094
+        ],
+        "type": "Point"
+      },
+      "id": "c40b9b315d49384d34dc77c17ce96632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tea Republik",
+        "games": "No",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.313453,
+              47.661653
+            ],
+            [
+              -122.313262,
+              47.661655
+            ],
+            [
+              -122.31326,
+              47.661585
+            ],
+            [
+              -122.313453,
+              47.661588
+            ],
+            [
+              -122.313453,
+              47.661653
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d6d88bbafeb45c54803466b898546b5f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O Dessert",
+        "games": "No",
+        "sweets": "Yes"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -122.313633,
+              47.663996
+            ],
+            [
+              -122.313205,
+              47.663994
+            ],
+            [
+              -122.313204,
+              47.663971
+            ],
+            [
+              -122.313632,
+              47.663972
+            ],
+            [
+              -122.313633,
+              47.663996
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "e84cf4eb876f438af53b0f9fe6a8203b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "YiFang Taiwan Fruit Tea",
+        "games": "Yes",
+        "sweets": "No"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.312885,
+          47.66532
+        ],
+        "type": "Point"
+      },
+      "id": "f8a2312dc7270751e05cb8d520784528"
+    }
+  ],
+  "type": "FeatureCollection"
+}
